@@ -13,7 +13,7 @@ ap.add_argument("-d", "--directory", required=True, help="Folder where are store
 args = vars(ap.parse_args())
 
 image = cv2.imread(args["image"])
-resized = im.resize(image, width=400)
+resized = im.resize(image, width=600)
 gray = cv2.cvtColor(resized, cv2.COLOR_BGR2GRAY)
 
 ratio = image.shape[0] / float(resized.shape[0])
@@ -32,8 +32,8 @@ form["barcode"] = barcode
 
 quest_count = 0
 threshold = 50
-if form["type"] == "answer_sheet":
-    threshold = 10
+if form["type"] == "answers_sheet":
+    threshold = 30
 
 
 for question in form["questions"]:
@@ -49,6 +49,7 @@ for question in form["questions"]:
             cv2.rectangle(resized, pt1, pt2, (255, 0, 0), 1)
             areaToCalc = thresh[y1:y2, x1:x2]
             result = cv2.countNonZero(areaToCalc)
+            #print(f"Result of {question['number']} - {option['text']} = {result}")
             if result > threshold:
                 form["questions"][quest_count]["options"][option_count]["selected"] = True
                 cv2.rectangle(resized, pt1, pt2, (0, 255, 0), 1)
