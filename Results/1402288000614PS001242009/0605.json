@@ -1,0 +1,750 @@
+{
+    "barcode": "1402288000614PS001242009U0605",
+    "processed": true,
+    "questions": [
+        {
+            "number": 1,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            254,
+                            442
+                        ],
+                        [
+                            424,
+                            548
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            254,
+                            548
+                        ],
+                        [
+                            424,
+                            654
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            254,
+                            640
+                        ],
+                        [
+                            424,
+                            746
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            254,
+                            748
+                        ],
+                        [
+                            424,
+                            854
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            548,
+                            442
+                        ],
+                        [
+                            718,
+                            548
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            548,
+                            548
+                        ],
+                        [
+                            718,
+                            654
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            548,
+                            640
+                        ],
+                        [
+                            718,
+                            746
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            548,
+                            748
+                        ],
+                        [
+                            718,
+                            854
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            840,
+                            442
+                        ],
+                        [
+                            1010,
+                            548
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            840,
+                            548
+                        ],
+                        [
+                            1010,
+                            654
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            840,
+                            640
+                        ],
+                        [
+                            1010,
+                            746
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            840,
+                            748
+                        ],
+                        [
+                            1010,
+                            854
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1132,
+                            442
+                        ],
+                        [
+                            1303,
+                            548
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1132,
+                            548
+                        ],
+                        [
+                            1303,
+                            654
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1132,
+                            640
+                        ],
+                        [
+                            1303,
+                            746
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1132,
+                            748
+                        ],
+                        [
+                            1303,
+                            854
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1425,
+                            442
+                        ],
+                        [
+                            1595,
+                            548
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": true,
+                    "coords": [
+                        [
+                            1425,
+                            548
+                        ],
+                        [
+                            1595,
+                            654
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1425,
+                            640
+                        ],
+                        [
+                            1595,
+                            746
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1425,
+                            748
+                        ],
+                        [
+                            1595,
+                            854
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1719,
+                            442
+                        ],
+                        [
+                            1889,
+                            548
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1719,
+                            548
+                        ],
+                        [
+                            1889,
+                            654
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1719,
+                            640
+                        ],
+                        [
+                            1889,
+                            746
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1719,
+                            748
+                        ],
+                        [
+                            1889,
+                            854
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            254,
+                            1018
+                        ],
+                        [
+                            424,
+                            1124
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            254,
+                            1122
+                        ],
+                        [
+                            424,
+                            1228
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            254,
+                            1215
+                        ],
+                        [
+                            424,
+                            1321
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            254,
+                            1318
+                        ],
+                        [
+                            424,
+                            1424
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            542,
+                            1018
+                        ],
+                        [
+                            718,
+                            1124
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            542,
+                            1122
+                        ],
+                        [
+                            718,
+                            1228
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            542,
+                            1215
+                        ],
+                        [
+                            718,
+                            1321
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            542,
+                            1318
+                        ],
+                        [
+                            718,
+                            1424
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            840,
+                            1018
+                        ],
+                        [
+                            1010,
+                            1131
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            840,
+                            1122
+                        ],
+                        [
+                            1010,
+                            1228
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            840,
+                            1215
+                        ],
+                        [
+                            1010,
+                            1321
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            840,
+                            1318
+                        ],
+                        [
+                            1010,
+                            1424
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": true,
+                    "coords": [
+                        [
+                            1132,
+                            1018
+                        ],
+                        [
+                            1303,
+                            1131
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1132,
+                            1122
+                        ],
+                        [
+                            1303,
+                            1228
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1132,
+                            1215
+                        ],
+                        [
+                            1303,
+                            1321
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1132,
+                            1318
+                        ],
+                        [
+                            1303,
+                            1424
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1425,
+                            1018
+                        ],
+                        [
+                            1595,
+                            1131
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1425,
+                            1122
+                        ],
+                        [
+                            1595,
+                            1228
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1425,
+                            1215
+                        ],
+                        [
+                            1595,
+                            1321
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1425,
+                            1318
+                        ],
+                        [
+                            1595,
+                            1424
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "selection": "simple",
+            "options": [
+                {
+                    "text": "A",
+                    "selected": true,
+                    "coords": [
+                        [
+                            1719,
+                            1018
+                        ],
+                        [
+                            1889,
+                            1131
+                        ]
+                    ]
+                },
+                {
+                    "text": "B",
+                    "selected": true,
+                    "coords": [
+                        [
+                            1719,
+                            122
+                        ],
+                        [
+                            1889,
+                            1228
+                        ]
+                    ]
+                },
+                {
+                    "text": "C",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1719,
+                            1215
+                        ],
+                        [
+                            1889,
+                            1321
+                        ]
+                    ]
+                },
+                {
+                    "text": "D",
+                    "selected": false,
+                    "coords": [
+                        [
+                            1719,
+                            1318
+                        ],
+                        [
+                            1889,
+                            1424
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

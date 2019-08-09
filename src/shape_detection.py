@@ -2,8 +2,8 @@ import argparse
 import imutils as im
 import cv2
 import json
-from src.OMR_detect_barCode import BarCodeDetect
-from src.serveForm import ServeForm
+from OMR_detect_barCode import BarCodeDetect
+from serveForm  import ServeForm
 import os
 
 ap = argparse.ArgumentParser()
@@ -31,6 +31,10 @@ form = sf.give_me_form(int(formName))
 form["barcode"] = barcode
 
 quest_count = 0
+threshold = 50
+if form["type"] == "answer_sheet":
+    threshold = 10
+
 
 for question in form["questions"]:
     option_count = 0
@@ -45,7 +49,7 @@ for question in form["questions"]:
             cv2.rectangle(resized, pt1, pt2, (255, 0, 0), 1)
             areaToCalc = thresh[y1:y2, x1:x2]
             result = cv2.countNonZero(areaToCalc)
-            if result > 50:
+            if result > threshold:
                 form["questions"][quest_count]["options"][option_count]["selected"] = True
                 cv2.rectangle(resized, pt1, pt2, (0, 255, 0), 1)
             option_count += 1
@@ -63,7 +67,7 @@ for question in form["questions"]:
                 cv2.rectangle(resized, pt1, pt2, (255, 0, 0), 1)
                 areaToCalc = thresh[y1:y2, x1:x2]
                 result = cv2.countNonZero(areaToCalc)
-                if result > 50:
+                if result > threshold:
                     form["questions"][quest_count]["options"][main_option_count]["options"][nested_option_count]["selected"] = True
                     cv2.rectangle(resized, pt1, pt2, (0, 255, 0), 1)
                 nested_option_count += 1
