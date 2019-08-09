@@ -6,8 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# JetBrains configs
+.idea/
+
 # Distribution / packaging
 .Python
+images_OMR/
 build/
 develop-eggs/
 dist/
