@@ -51,7 +51,7 @@
                 },
                 {
                     "text": "D",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             254,
@@ -85,7 +85,7 @@
                 },
                 {
                     "text": "B",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             548,
@@ -133,7 +133,7 @@
             "options": [
                 {
                     "text": "A",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             840,
@@ -195,7 +195,7 @@
             "options": [
                 {
                     "text": "A",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             1132,
@@ -361,7 +361,7 @@
                 },
                 {
                     "text": "D",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             1719,
@@ -409,7 +409,7 @@
                 },
                 {
                     "text": "C",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             254,
@@ -485,7 +485,7 @@
                 },
                 {
                     "text": "D",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             542,
@@ -519,7 +519,7 @@
                 },
                 {
                     "text": "B",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             840,
@@ -643,7 +643,7 @@
                 },
                 {
                     "text": "B",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             1425,
@@ -781,7 +781,7 @@
                 },
                 {
                     "text": "C",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             254,
@@ -843,7 +843,7 @@
                 },
                 {
                     "text": "C",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             542,
@@ -905,7 +905,7 @@
                 },
                 {
                     "text": "C",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             840,
@@ -953,7 +953,7 @@
                 },
                 {
                     "text": "B",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             1132,
@@ -1015,7 +1015,7 @@
                 },
                 {
                     "text": "B",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             1425,
@@ -1063,7 +1063,7 @@
             "options": [
                 {
                     "text": "A",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             1719,
@@ -1153,7 +1153,7 @@
                 },
                 {
                     "text": "C",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             254,
@@ -1201,7 +1201,7 @@
                 },
                 {
                     "text": "B",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             542,
@@ -1277,7 +1277,7 @@
                 },
                 {
                     "text": "C",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             840,
@@ -1311,7 +1311,7 @@
             "options": [
                 {
                     "text": "A",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             1132,
@@ -1387,7 +1387,7 @@
                 },
                 {
                     "text": "B",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             1425,
@@ -1449,7 +1449,7 @@
                 },
                 {
                     "text": "B",
-                    "selected": false,
+                    "selected": true,
                     "coords": [
                         [
                             1719,
